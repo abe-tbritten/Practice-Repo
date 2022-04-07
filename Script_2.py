@@ -7,4 +7,4 @@ names = {
 }
 n = random.randint(0, 3)
 print(names)
-print("rand int: " + str(n))
+print("rand int: " + str(2 * n))
